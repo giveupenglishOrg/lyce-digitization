@@ -8,7 +8,11 @@ This is a project to manage the LYCE digitization, some of them are processed as
 - [ ] Blurt Out 1
   - Website https://bo1.lyce.info
   - Repository https://github.com/blurtOut/bo1
+- [ ] 72 Methods
+  - Website https://72.lyce.info
+  - Repository https://github.com/giveupenglishOrg/72 
 - [ ] Spoken Elements
+  - Coming soon...
 - [ ] Special Spoken Elements
   - Website https://sse.lyce.info
   - Repository https://github.com/giveupenglishOrg/sse.lyce.info
