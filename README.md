@@ -17,3 +17,4 @@ This is a project to manage the LYCE digitization, some of them are processed as
 
 - https://lyce.info
 - https://crazyenglish.info
+- About Anki https://apps.ankiweb.net
