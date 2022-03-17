@@ -5,7 +5,7 @@ This is a project to manage the LYCE digitization, some of them are processed as
 
 #### Progress
 
-- [ ] FM
+- [x] FM
   - Website https://fm.lyce.info
   - Repository https://github.com/giveupenglishOrg/fm.lyce.info
 - [ ] Blurt Out 1
